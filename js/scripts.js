@@ -8,25 +8,3 @@ var partOftext = animalCharsAfter.slice(1,45);
 
 console.log(partOftext);
 
-
-
-
-
-
-
-
-
-
-/*var motto = 'Niebieskie kanarki zawsze spadają na cztery łapy.';
-var mottoCharsAfter = motto.replace('kanarki', 'legwany'); 
-console.log(mottoCharsAfter);
-
-
-
-
-
-var motto = 'Niebieskie kanarki zawsze spadają na cztery łapy.'; var mottoCharsAfter = motto.replace('kanarki', 'legwany'); 
-console.log(mottoCharsAfter);
-
-
-var seaName = 'Marynarz Stefan'; var seaNameUpperCased = seaName.toUpperCase(); console.log(seaNameUpperCased);*/
